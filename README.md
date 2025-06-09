@@ -256,7 +256,7 @@
 - How can I describe to a computer what angry means?
 - We let machines take care of the easier part of which things we can describe
 - Things that are hard to just give instructions to, we let human do it
-- The goal of machine learning is to make machines act more and more like humans because the smarter they
+- The goal of machine learning is to make machines act more and more like humans because the smarter they get, the more they help us humans accomplish our goals.
 
 **[⬆ back to top](#table-of-contents)**
 
